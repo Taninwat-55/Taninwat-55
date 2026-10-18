@@ -1,6 +1,6 @@
-<img src="ice.jpg" width="140" align="right" alt="Ice: glasses, navy blazer over a light shirt" />
-
 # Hi, I'm Ice
+
+<img src="ice.jpg" width="140" align="right" alt="Ice: glasses, navy blazer over a light shirt" />
 
 Taninwat Kaewpankan. Full-stack engineer in Copenhagen, working in TypeScript from the interface to the database.
 
