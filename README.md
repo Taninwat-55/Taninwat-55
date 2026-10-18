@@ -1,4 +1,4 @@
-<img src="https://taninwatkaewpankan.xyz/stack/ice-portrait-sm.png" width="140" align="right" alt="Ice, dithered in black and white" />
+<img src="ice.jpg" width="140" align="right" alt="Ice: glasses, navy blazer over a light shirt" />
 
 # Hi, I'm Ice
 
